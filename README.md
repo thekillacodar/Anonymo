@@ -6,3 +6,4 @@ we abandoned this project
 that's not nice na
 I think I might have here as my diary
 and cmmmit everyday
+just because 
