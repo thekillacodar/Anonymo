@@ -11,4 +11,4 @@ I can
 and I will
 just developing 
 this commit
-culture
+culture and have a record of my day
