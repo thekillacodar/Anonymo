@@ -18,4 +18,4 @@ another struggle
 would've lost today's commit challenge,
 but here i am.
 saved my snap streaks
-now
+now to
