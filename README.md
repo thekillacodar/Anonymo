@@ -16,4 +16,4 @@ March 6th
 another day
 another struggle
 would've lost today's commit challenge,
-but here i am
+but here i am.
