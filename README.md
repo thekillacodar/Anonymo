@@ -15,4 +15,4 @@ culture and have a record of my day
 March 6th
 another day
 another struggle
-would've lost today's commit 
+would've lost today's commit challenge 
