@@ -50,4 +50,4 @@ day 11
 github streaks 
 
 day 12
-git hub
+git hub streaks
